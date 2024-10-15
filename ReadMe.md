@@ -9,10 +9,10 @@ This tutorial is part of the ["Exploring Connections" - Bring Your Own Data Lab 
 - Epistemology of network research and introduction to framework of modeling
 - Best practices in humanities-based digital / computational research projects
 - Conceptualize your network research project with expert- and peer2peer- mentoring exchange
-- Historical Network Analysis with Python using [networkX](https://networkx.org/): 
+- Historical network analysis with Python and Jupyter Notebooks using [networkX](https://networkx.org/): 
 	- hands-on tutorials,
-	- show cases based on [Petz, Cindarella and Pfeffer, J\"urgen (2021) Configuration to Conviction, and Configuration to Conviction. Network Structures of Political Judiciary in the Austrian Corporate State. Social Networks, vol. 66, July 2021, pp. 185–201. DOI: 10.1016/j.socnet.2021.03.001.](https://www.sciencedirect.com/science/article/pii/S037887332100023X?via\%3Dihub)
-	- expert-mentoring on your individual datasets
+	- show cases based on [Petz, Cindarella and Pfeffer, Jürgen (2021) Configuration to Conviction, and Configuration to Conviction. Network Structures of Political Judiciary in the Austrian Corporate State. Social Networks, vol. 66, July 2021, pp. 185–201. DOI: 10.1016/j.socnet.2021.03.001.](https://www.sciencedirect.com/science/article/pii/S037887332100023X?via\%3Dihub)
+	- expert-mentoring on your individual datasets as part of the in-person workshop meeting
   
 ## Preparation:
 - Please install [Anaconda](https://www.anaconda.com/products/individual) (or Miniconda) according to your operating system.  
@@ -42,12 +42,14 @@ Anaconda will automatically install Python, Jupyter Notebook, and allows you to 
 - [Karna (2022) Network Analysis Tutorial with Python and QGIS](http://www.mrakhilesh.com/myweb/posts/network-analysis-python/)
 - [Hagberg et al (2014) NetworkX Tutorial](https://networkx.github.io/documentation/networkx-1.9.1/_downloads/networkx_tutorial.pdf)
 - [Zhiyzuo (2019) Network Analysis with Networkx](https://github.com/zhiyzuo/python-tutorial/blob/master/3-Network-Analysis-with-NetworkX.ipynb)
+
 - Further list of ressources [HNR Community](https://historicalnetworkresearch.org/external-resources/), or [Awesome List Network Analysis](https://github.com/briatte/awesome-network-analysis?tab=readme-ov-file#python)
 
-## Further network analysis libraries for Python:
+## Network analysis libraries for Python (non-exhaustive):
+- Network analysis [networkX](https://networkx.org/)
 - Interactive network visualization library [pyvis](https://pyvis.readthedocs.io/en/latest/)
 - Network analysis [python-igraph](https://igraph.org/)
--  Network analysis [graph-tool](https://graph-tool.skewed.de/)
+- Network analysis [graph-tool](https://graph-tool.skewed.de/)
 - Large-scale network analysis [NetworKit](https://networkit.github.io/)
 - Complex network analysis [Py3Plex](https://github.com/SkBlaz/py3plex)
 - Graph neural networks [PyG](https://www.pyg.org/)
@@ -64,6 +66,6 @@ Forschungsbeispiele. 3. überarbeitete Auflage. VS Verlag für Sozialwissenschaf
 - **Special Mention**: Recommended Reading for robustness evaluation in HNA: [de Valeriola, Sébastien. 2021. Can historians trust centrality? Historical network analysis and centrality metrics robustness. Journal of Historical Network Research 6 (1). https://doi.org/10.
 25517/jhnr.v6i1.105.](https://doi.org/10.25517/jhnr.v6i1.105)
 
-- Discover HNA studies at [Journal of Historical Network Research](https://jhnr.net/)
+- Discover further HNA studies at [Journal of Historical Network Research](https://jhnr.net/)
 
 
