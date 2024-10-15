@@ -11,7 +11,7 @@ This tutorial is part of the ["Exploring Connections" - Bring Your Own Data Lab 
 - Conceptualize your network research project with expert- and peer2peer- mentoring exchange
 - Historical Network Analysis with Python using [networkX](https://networkx.org/): 
 	- hands-on tutorials,
-	- show cases based on Petz (2022), and 
+	- show cases based on [Petz, Cindarella and Pfeffer, J\"urgen (2021) Configuration to Conviction, and Configuration to Conviction. Network Structures of Political Judiciary in the Austrian Corporate State. Social Networks, vol. 66, July 2021, pp. 185–201. DOI: 10.1016/j.socnet.2021.03.001.](https://www.sciencedirect.com/science/article/pii/S037887332100023X?via\%3Dihub)
 	- expert-mentoring on your individual datasets
   
 ## Preparation:
@@ -34,7 +34,7 @@ Anaconda will automatically install Python, Jupyter Notebook, and allows you to 
 - Course Syllabus with Tutorials: [Zhukov (2015): Structural Analysis and Visualization of Networks](http://www.leonidzhukov.net/hse/2015/networks/)
 - Course Syllabus with Tutorials:  [Rossetti et al (n.a.) Complex Network Analysis](https://github.com/sna-unipi) and [Tutorials](https://github.com/sna-unipi/CNA_Tutorials)
 - Course Syllabus with Tutorials:  [Keegan (n.a.) Network Science](https://github.com/cuinfoscience/INFO5613-Fall2021)
-- [Melo & Bernardi (2023) Dynamic Network Analysis](https://dynamical-network-analysis.readthedocs.io/en/latest/index.html) and [Tutorials](https://github.com/melomcr/dynetan_tutorial)
+- [Melo & Bernardi (2023) Dynamical Network Analysis](https://dynamical-network-analysis.readthedocs.io/en/latest/index.html) and [Tutorials](https://github.com/melomcr/dynetan_tutorial)
 - [Klein (2022) Graph Theory and Graphs in Python](https://python-course.eu/applications-python/graphs-python.php)
 - DataCamp: [Graph Optimization](https://www.datacamp.com/tutorial/networkx-python-graph-tutorial)
 - Coursera: [Romera (n.a.) Applied Social Network Analysis with Python](https://www.coursera.org/learn/python-social-network-analysis#syllabus)
