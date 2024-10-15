@@ -58,12 +58,12 @@ Anaconda will automatically install Python, Jupyter Notebook, and allows you to 
 ## Recommended Reading (non-exhaustive):
 - SNA & HNA: [Stegbauer, Christian and Häußling, Roger (2025) Handbuch Netzwerkforschung. erw. Neuauflage, Springer VS Wiesbaden.](https://doi.org/10.1007/978-3-658-37507-2)
 - HNA: [Düring, Martin and Eumann, Ulrich and Stark, Martin and von Keyserlingk, Linda (2016, Eds.) Handbuch Historische Netzwerkforschung: Grundlagen und Anwendungen. Münster: LIT Verlag.](https://lit-verlag.de/isbn/978-3-643-11705-2/)
-- Classical reading: [Wasserman, Stanley and Faust, Katherine. 1994. Social Network Analysis: Methods and Applications. 1st ed. Structural Analysis in the Social Sciences, 8. New York: Cambridge University Press.](https://www.cambridge.org/core/books/social-network-analysis/90030086891EB3491D096034684EFFB8)
-- Great first introduction: Jansen, Dorothea. 2006. Einführung in die Netzwerkanalyse. Grundlagen, Methoden,
+- **Classical reading**: [Wasserman, Stanley and Faust, Katherine. 1994. Social Network Analysis: Methods and Applications. 1st ed. Structural Analysis in the Social Sciences, 8. New York: Cambridge University Press.](https://www.cambridge.org/core/books/social-network-analysis/90030086891EB3491D096034684EFFB8)
+- **Great first introduction**: Jansen, Dorothea. 2006. Einführung in die Netzwerkanalyse. Grundlagen, Methoden,
 Forschungsbeispiele. 3. überarbeitete Auflage. VS Verlag für Sozialwissenschaften.
 - SNA: [Hennig, Marina and Brandes, Ulrik and Pfeffer, Jürgen and Mergel, Ines. Studying Social Networks: A Guide to Empirical Research. Campus Verlag, 2012.](https://www.campus.de/buecher-campus-verlag/wissenschaft/soziologie/studying_social_networks-4273.html?srsltid=AfmBOoplqKTpwUUqbqBa4ADIea7DyZPCsbenZiqUHiBJJPE2pzsfjJEd)
 
-- **Special Mention**: Recommended Reading for robustness evaluation in HNA: [de Valeriola, Sébastien. 2021. Can historians trust centrality? Historical network analysis and centrality metrics robustness. Journal of Historical Network Research 6 (1). https://doi.org/10.
+- **Special Mention**: Recommended reading for robustness evaluation in HNA: [de Valeriola, Sébastien. 2021. Can historians trust centrality? Historical network analysis and centrality metrics robustness. Journal of Historical Network Research 6 (1). https://doi.org/10.
 25517/jhnr.v6i1.105.](https://doi.org/10.25517/jhnr.v6i1.105)
 
 - Discover further HNA studies at [Journal of Historical Network Research](https://jhnr.net/)
