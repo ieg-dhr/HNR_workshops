@@ -18,15 +18,15 @@ This tutorial is part of the ["Exploring Connections" - Bring Your Own Data Lab 
 - Please install [Anaconda](https://www.anaconda.com/products/individual) (or Miniconda) according to your operating system.  
 Anaconda will automatically install Python, Jupyter Notebook, and allows you to use version control of any package you will install.
 - Please create a new environment in Anaconda, e.g., "HNA", and install the following packages:
-      - networkX
-      - pandas
-      - matplotlib
-      - numpy
+      - [networkX](https://networkx.org/)
+      - [pandas](https://pandas.pydata.org/)
+      - [matplotlib](https://matplotlib.org/)
+      - [numpy](https://numpy.org/)
 - You will find an introductory tutorial for Python using Jupyter Notebook here: [Introduction to Jupyter Notebooks with Python.ipynb ](https://github.com/ieg-dhr/ieg_workshops/blob/master/2021_02_networks_python/Introduction_Jupyter_Python.ipynb) and to [Introduction to Data Analysis with Python](https://github.com/ieg-dhr/ieg_workshops/blob/master/2021_02_networks_python/Intro_Data_Analysis_with_Python.ipynb). You have to open these files already using Jupyter Notebook. If you do not know how to do it, check this [documentation](https://docs.anaconda.com/ae-notebooks/user-guide/basic-tasks/apps/jupyter/index.html).
 
 
 ## Further Resources:
-- Official Package Tutorial: [Scellato (2012) NetworkX: Network Analysis with Python](https://www.cl.cam.ac.uk/~cm542/teaching/2011/stna-pdfs/stna-lecture11.pdf)
+- Official networkX-Package Tutorial: [Scellato (2012) NetworkX: Network Analysis with Python](https://www.cl.cam.ac.uk/~cm542/teaching/2011/stna-pdfs/stna-lecture11.pdf)
 - [Ladd et al (2017) Exploring and Analyzing Network Data with Python](https://programminghistorian.org/en/lessons/exploring-and-analyzing-network-data-with-python)
 - [Ladd (n.a.) Network Analysis in Python](https://jrladd.com/networks/intro.html) and [Dynamic networks](https://jrladd.com/networks/special/dynamic.html)
 - [Düring (2015) From Hermeneutics to Data to Networks Tutorial](https://programminghistorian.org/en/lessons/creating-network-diagrams-from-historical-sources)
@@ -44,18 +44,26 @@ Anaconda will automatically install Python, Jupyter Notebook, and allows you to 
 - [Zhiyzuo (2019) Network Analysis with Networkx](https://github.com/zhiyzuo/python-tutorial/blob/master/3-Network-Analysis-with-NetworkX.ipynb)
 - Further list of ressources [HNR Community](https://historicalnetworkresearch.org/external-resources/), or [Awesome List Network Analysis](https://github.com/briatte/awesome-network-analysis?tab=readme-ov-file#python)
 
+## Further network analysis libraries for Python:
+- Interactive network visualization library [pyvis](https://pyvis.readthedocs.io/en/latest/)
+- Network analysis [python-igraph](https://igraph.org/)
+-  Network analysis [graph-tool](https://graph-tool.skewed.de/)
+- Large-scale network analysis [NetworKit](https://networkit.github.io/)
+- Complex network analysis [Py3Plex](https://github.com/SkBlaz/py3plex)
+- Graph neural networks [PyG](https://www.pyg.org/)
+- Deep graph library [DGL](https://www.dgl.ai/)
+
 ## Recommended Reading (non-exhaustive):
-- SNA & HNA: [Stegbauer, Christian and Häußling, Roger (2025) Handbuch Netzwerkforschung. erw. Neuauflage, Springer VS Wiesbaden](https://doi.org/10.1007/978-3-658-37507-2)
-- HNA: [Düring, Martin and Eumann, Ulrich and Stark, Martin and von Keyserlingk, Linda (2016, Eds.) Handbuch Historische Netzwerkforschung: Grundlagen und Anwendungen. Münster: LIT Verlag](https://lit-verlag.de/isbn/978-3-643-11705-2/)
-- Classical reading: [Wasserman, Stanley and Faust, Katherine. 1994. Social Network Analysis: Methods and
-Applications. 1st ed. Structural Analysis in the Social Sciences, 8. New York: Cam-
-bridge University Press.](https://www.cambridge.org/core/books/social-network-analysis/90030086891EB3491D096034684EFFB8)
+- SNA & HNA: [Stegbauer, Christian and Häußling, Roger (2025) Handbuch Netzwerkforschung. erw. Neuauflage, Springer VS Wiesbaden.](https://doi.org/10.1007/978-3-658-37507-2)
+- HNA: [Düring, Martin and Eumann, Ulrich and Stark, Martin and von Keyserlingk, Linda (2016, Eds.) Handbuch Historische Netzwerkforschung: Grundlagen und Anwendungen. Münster: LIT Verlag.](https://lit-verlag.de/isbn/978-3-643-11705-2/)
+- Classical reading: [Wasserman, Stanley and Faust, Katherine. 1994. Social Network Analysis: Methods and Applications. 1st ed. Structural Analysis in the Social Sciences, 8. New York: Cambridge University Press.](https://www.cambridge.org/core/books/social-network-analysis/90030086891EB3491D096034684EFFB8)
 - Great first introduction: Jansen, Dorothea. 2006. Einführung in die Netzwerkanalyse. Grundlagen, Methoden,
 Forschungsbeispiele. 3. überarbeitete Auflage. VS Verlag für Sozialwissenschaften.
-- SNA: [Hennig, Marina and Brandes, Ulrik and Pfeffer, Jürgen and Mergel, Ines. Studying
-Social Networks: A Guide to Empirical Research. Campus Verlag, 2012.](https://www.campus.de/buecher-campus-verlag/wissenschaft/soziologie/studying_social_networks-4273.html?srsltid=AfmBOoplqKTpwUUqbqBa4ADIea7DyZPCsbenZiqUHiBJJPE2pzsfjJEd)
-- Recommended Reading for robustness evaluation in HNA: [de Valeriola, Sébastien. 2021. Can historians trust centrality? Historical network analysis and centrality metrics robustness. Journal of Historical Network Research 6 (1). https://doi.org/10.
+- SNA: [Hennig, Marina and Brandes, Ulrik and Pfeffer, Jürgen and Mergel, Ines. Studying Social Networks: A Guide to Empirical Research. Campus Verlag, 2012.](https://www.campus.de/buecher-campus-verlag/wissenschaft/soziologie/studying_social_networks-4273.html?srsltid=AfmBOoplqKTpwUUqbqBa4ADIea7DyZPCsbenZiqUHiBJJPE2pzsfjJEd)
+
+- **Special Mention**: Recommended Reading for robustness evaluation in HNA: [de Valeriola, Sébastien. 2021. Can historians trust centrality? Historical network analysis and centrality metrics robustness. Journal of Historical Network Research 6 (1). https://doi.org/10.
 25517/jhnr.v6i1.105.](https://doi.org/10.25517/jhnr.v6i1.105)
+
 - Discover HNA studies at [Journal of Historical Network Research](https://jhnr.net/)
 
 
