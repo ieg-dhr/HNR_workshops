@@ -9,9 +9,10 @@ This tutorial is part of the ["Exploring Connections" - Bring Your Own Data Lab 
 - Epistemology of network research and introduction to framework of modeling
 - Best practices in humanities-based digital / computational research projects
 - Conceptualize your network research project with expert- and peer2peer- mentoring exchange
-- Historical network analysis with Python and Jupyter Notebooks using [networkX](https://networkx.org/): 
+- Historical network analysis with Python and Jupyter Notebooks using [networkX](https://networkx.org/): [→ Click here for the .ipynb-Tutorial](https://github.com/cprog7/HNR_workshops/blob/main/Petz_2024_HNA-tutorial.ipynb)
+ 
 	- hands-on tutorials,
-	- show cases based on [Petz, Cindarella and Pfeffer, Jürgen (2021) Configuration to Conviction, and Configuration to Conviction. Network Structures of Political Judiciary in the Austrian Corporate State. Social Networks, vol. 66, July 2021, pp. 185–201. DOI: 10.1016/j.socnet.2021.03.001.](https://www.sciencedirect.com/science/article/pii/S037887332100023X?via\%3Dihub)
+	- show cases based on [Petz, Cindarella and Pfeffer, Jürgen (2021) Configuration to Conviction, and Configuration to Conviction. Network Structures of Political Judiciary in the Austrian Corporate State. Social Networks, vol. 66, July 2021, pp. 185–201. DOI: 10.1016/j.socnet.2021.03.001.](https://www.sciencedirect.com/science/article/pii/S037887332100023X?via\%3Dihub) and [Petz, Cindarella and Ghawi, Raji and Pfeﬀer, Jürgen (2022). Tracking the Evolution of Communities in a Social Network of Intellectual Influences. Journal of Historical Network Research 2022, vol. 7, number 1, pp. 114–154. DOI: 10.25517/jhnr.v7i1.146.](https://jhnr.net/articles/10.25517/jhnr.v7i1.146)
 	- expert-mentoring on your individual datasets as part of the in-person workshop meeting
   
 ## Preparation:
