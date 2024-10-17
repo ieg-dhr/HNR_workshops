@@ -37,7 +37,7 @@ Anaconda will automatically install Python, Jupyter Notebook, and allows you to 
 - Course Syllabus with Tutorials: [Zhukov (2015): Structural Analysis and Visualization of Networks](http://www.leonidzhukov.net/hse/2015/networks/)
 - Course Syllabus with Tutorials:  [Rossetti et al (n.a.) Complex Network Analysis](https://github.com/sna-unipi) and [Tutorials](https://github.com/sna-unipi/CNA_Tutorials)
 - Course Syllabus with Tutorials:  [Keegan (n.a.) Network Science](https://github.com/cuinfoscience/INFO5613-Fall2021)
-- Course Tutorials: [Shestakoff (2014)](https://github.com/shestakoff/social_ntwks)
+- Course Tutorials: [Shestakoff (2014)](https://github.com/shestakoff/social_ntwks) Social Networks
 - [Melo & Bernardi (2023) Dynamical Network Analysis](https://dynamical-network-analysis.readthedocs.io/en/latest/index.html) and [Tutorials](https://github.com/melomcr/dynetan_tutorial)
 - [Klein (2022) Graph Theory and Graphs in Python](https://python-course.eu/applications-python/graphs-python.php)
 - DataCamp: [Graph Optimization](https://www.datacamp.com/tutorial/networkx-python-graph-tutorial)
