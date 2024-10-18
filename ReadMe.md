@@ -2,8 +2,10 @@
 
 Author: Dr. Cindarella Petz ([Orcid-ID: 0000-0002-6178-7332](https://orcid.org/0000-0002-6178-7332), [petz@ieg-mainz.de](mailto:petz@ieg-mainz.de))
 
+[![DOI](https://zenodo.org/badge/872853563.svg)](https://doi.org/10.5281/zenodo.13951600)
 
-This tutorial is part of the ["Exploring Connections" - Bring Your Own Data Lab of HERMES](https://hermes-hub.de/events/intern/byodlab20240917.html) hosted at [IEG Mainz](https://www.ieg-mainz.de/forschung/dh-lab) on Oct 17--18, 2024.
+This tutorial was part of the ["Exploring Connections" - Bring Your Own Data Lab of HERMES](https://hermes-hub.de/events/intern/byodlab20240917.html) hosted at [IEG Mainz](https://www.ieg-mainz.de/forschung/dh-lab) on Oct 17--18, 2024.
+
 
 ## Agenda: 
 - Epistemology of network research and introduction to framework of modeling
