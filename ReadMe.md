@@ -60,7 +60,7 @@ Anaconda will automatically install Python, Jupyter Notebook, and allows you to 
 - Deep graph library [DGL](https://www.dgl.ai/)
 
 ## Recommended Reading (non-exhaustive):
-- SNA & HNA: [Stegbauer, Christian and Häußling, Roger (2025) Handbuch Netzwerkforschung. erw. Neuauflage, Springer VS Wiesbaden.](https://doi.org/10.1007/978-3-658-37507-2)
+- SNA & HNA: [Stegbauer, Christian and Häußling, Roger (2025, Eds.) Handbuch Netzwerkforschung. erw. Neuauflage, Springer VS Wiesbaden.](https://doi.org/10.1007/978-3-658-37507-2)
 - HNA: [Düring, Martin and Eumann, Ulrich and Stark, Martin and von Keyserlingk, Linda (2016, Eds.) Handbuch Historische Netzwerkforschung: Grundlagen und Anwendungen. Münster: LIT Verlag.](https://lit-verlag.de/isbn/978-3-643-11705-2/)
 - **Classical reading**: [Wasserman, Stanley and Faust, Katherine. 1994. Social Network Analysis: Methods and Applications. 1st ed. Structural Analysis in the Social Sciences, 8. New York: Cambridge University Press.](https://www.cambridge.org/core/books/social-network-analysis/90030086891EB3491D096034684EFFB8)
 - **Great first introduction**: Jansen, Dorothea. 2006. Einführung in die Netzwerkanalyse. Grundlagen, Methoden,
