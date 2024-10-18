@@ -29,7 +29,7 @@ Anaconda will automatically install Python, Jupyter Notebook, and allows you to 
 
 
 ## Further Resources:
-- Official networkX-Package Tutorial: [Scellato (2012) NetworkX: Network Analysis with Python](https://www.cl.cam.ac.uk/~cm542/teaching/2011/stna-pdfs/stna-lecture11.pdf)
+- Official networkX-Package Tutorial: [Scellato (2012) NetworkX: Network Analysis with Python](https://www.cl.cam.ac.uk/~cm542/teaching/2011/stna-pdfs/stna-lecture11.pdf) or [here](https://networkx.org/documentation/stable/tutorial.html)
 - [Ladd et al (2017) Exploring and Analyzing Network Data with Python](https://programminghistorian.org/en/lessons/exploring-and-analyzing-network-data-with-python)
 - [Ladd (n.a.) Network Analysis in Python](https://jrladd.com/networks/intro.html) and [Dynamic networks](https://jrladd.com/networks/special/dynamic.html)
 - [Düring (2015) From Hermeneutics to Data to Networks Tutorial](https://programminghistorian.org/en/lessons/creating-network-diagrams-from-historical-sources)
