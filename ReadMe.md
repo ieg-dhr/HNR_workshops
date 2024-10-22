@@ -1,6 +1,6 @@
 # Historical Network Analysis Workshop 
 
-Author: Dr. Cindarella Petz ([![ORCID](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-6178-7332), [petz@ieg-mainz.de](mailto:petz@ieg-mainz.de))
+Author: Dr. Cindarella Petz [![ORCID](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-6178-7332) ([petz@ieg-mainz.de](mailto:petz@ieg-mainz.de))
 
 [![DOI](https://zenodo.org/badge/872853563.svg)](https://doi.org/10.5281/zenodo.13951600)
 
